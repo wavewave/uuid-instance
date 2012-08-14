@@ -4,7 +4,7 @@ import Data.UUID
 import Data.Aeson
 import Data.Text.Encoding as E
 import qualified Data.ByteString.Char8 as C
-import Data.Aeson.Types 
+-- import Data.Aeson.Types 
 import Data.SafeCopy
 
 instance FromJSON UUID where
